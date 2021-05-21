@@ -1,1 +1,2 @@
-Game of Snakes and Ladders.
+Repository for Game Of Blocks Project.
+
