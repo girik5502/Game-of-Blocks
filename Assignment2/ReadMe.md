@@ -33,6 +33,8 @@ These contracts can be easily run on <a href="http://remix.ethereum.org">REMIX</
 Take a scenario in which address `0x5B38Da6a701c568545dCfcB03FcB875f56beddC4` is the owner and `0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2` is the creditor. <br />
 Deploying the _Loans_ contract initiated the current active address as the owner, with the above number of tokens via the constructor of _MetaCoin_ contract. The creditor then requested for repayment via `reqLoan` function, which was then viewed by the owner, and settled through `viewDues` and `settleDues` respectively. <br />
 <br />
+A screenshot using the various functions have been added. <br />
+![Screenshot](./ss.png)
 
 
 
